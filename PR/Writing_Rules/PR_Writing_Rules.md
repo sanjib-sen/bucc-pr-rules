@@ -24,10 +24,12 @@ Please check those out.
 
 5. **Paragraph size and subject** Each paragraph should not be more than 5-6 lines at most and each Paragraph should focus on only a single topic as to ensure that the readers are able to easily read and understand the information.
 
-   **Wrong** 
+   **Wrong**
+   
    ![Wrong](pics/longwrong.jpg)
    
-   **Right** 
+   **Right**
+   
    ![Right](pics/longright.jpg)
 
 ## General writing style
