@@ -63,10 +63,12 @@ When it comes to adding pictures to a PR, the most important thing to keep in mi
 
 Alternatively, if there are not group photos, then a good picture of one of the main speaker would suffice.
 
-**Wrong** 
+**Wrong**
+
 ![distractionWrong](pics/distractionwrong.png)
 
-**Right** 
+**Right**
+
 ![distractionRight](pics/distractionright.jpg)
 
 ## Placement of Photos in the PR
