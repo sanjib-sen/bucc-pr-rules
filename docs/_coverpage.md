@@ -2,10 +2,10 @@
 
 # BUCC PR Rules
 
-> Editing and Writing Rules
+> For Writing and Editing
 
 -   Writing Rules
--   Writing System
+-   PR Process
 -   Examples
 -   Templates
 
