@@ -9,6 +9,5 @@
 -   Examples
 -   Templates
 
-[BUCC](https://bracucc.org/)
+[Guidelines](#editingwriting-guidelines-for-bucc-pr)
 [Templates](https://drive.google.com/drive/folders/1cRqxOGCmwUsc2HCryFbRdv9203QWCT9U?usp=sharing)
-[Facebook](https://www.facebook.com/BRACUCC)

@@ -86,11 +86,11 @@ Regardless of the type of the picture, the placement should always be at the beg
 
     ![single](pics/person.png)
 
-## Volunteer List:
+## Volunteer List
 
 A paragraph thanking the volunteers of the event should always be kept at the end of the PR. All of the names are to be bolded. The list of Volunteers should be collected from the members of HR and if possible. The names are to be included in separate lists in the last paragraph such as:
 
-> Special thanks goes to the senior executives “**Farhan Ahmed, Jamius Siam”** for “Writing everything”, also “**Jamius Alim, Sardar Motaleb Haque**” are to be thanked for “Helping others”\*\*
+> Special thanks goes to the senior executives “**Farhan Ahmed, Jamius Siam”** for “Writing everything”, also “**Jamius Alim, Sardar Motaleb Haque**” are to be thanked for “Helping others”.
 
 ## Additional tips
 
