@@ -24,8 +24,10 @@ Please check those out.
 
 5. **Paragraph size and subject** Each paragraph should not be more than 5-6 lines at most and each Paragraph should focus on only a single topic as to ensure that the readers are able to easily read and understand the information.
 
-   **Wrong** ![Wrong](pics/longwrong.jpg)
-**Right** ![Right](pics/longright.jpg)
+   **Wrong** 
+   ![Wrong](pics/longwrong.jpg)
+   **Right** 
+   ![Right](pics/longright.jpg)
 
 ## General writing style
 
@@ -58,9 +60,11 @@ When it comes to adding pictures to a PR, the most important thing to keep in mi
 
 Alternatively, if there are not group photos, then a good picture of one of the main speaker would suffice.
 
-**Wrong** ![distractionWrong](pics/distractionwrong.png)
+**Wrong** 
+![distractionWrong](pics/distractionwrong.png)
 
-**Right** ![distractionRight](pics/distractionright.jpg)
+**Right** 
+![distractionRight](pics/distractionright.jpg)
 
 ## Placement of Photos in the PR
 
@@ -80,14 +84,17 @@ A paragraph thanking the volunteers of the event should always be kept at the en
 ## Additional tips 
 
 If you are using Google Docs for the first time, then you might not be aware that it is possible to keep track of the changes in Google Doc. To check the history, **simply go the file > version history > see version history.** A menu will pop up where you will be able to check all of the previous edits made.
+
 ![version-history](pics/version-history.png)
 
 Another cool thing to know about Google Doc is that you can actually crop the pictures within the Doc itself, instead of using another third party software.
 
 To do that, simply Right Click the picture and select crop image.
+
 ![crop1](pics/crop1.png)
 
 It will give you a selection tool using which you will be able to crop the picture with ease.
+
 ![crop2](pics/crop2.jpg)
 
 ## PR Writing System
