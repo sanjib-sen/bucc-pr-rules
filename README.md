@@ -1,3 +1,3 @@
-# bucc
+# Website for PR Writing
 
-to check writing rules visit: 
+The website is live at [BUCC PR Rules](https://sanjib-sen.github.io/bucc-pr-rules/)
