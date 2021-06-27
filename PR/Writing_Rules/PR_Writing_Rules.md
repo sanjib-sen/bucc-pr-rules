@@ -26,6 +26,7 @@ Please check those out.
 
    **Wrong** 
    ![Wrong](pics/longwrong.jpg)
+   
    **Right** 
    ![Right](pics/longright.jpg)
 
