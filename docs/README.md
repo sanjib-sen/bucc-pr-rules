@@ -20,7 +20,7 @@ Please check those out before writing a PR.
    
    ![headline](pics/headline.png)
 
-6. **Format of Main Text:** Unless [specified reasons](##Bolding), the paragraph will not be bolded and underlined.
+6. **Format of Main Text:** Unless [specified reasons](#bolding), the paragraph will not be bolded and underlined.
    
    ![paragraph](pics/paragraph.png)
 
@@ -95,7 +95,7 @@ Regardless of the type of the picture, the placement should always be at the beg
 
     ![group](pics/group.jpg)
 
--   Alternatively, if the picture only consists of the speaker, then it should be moved towards the edge of a paragraph as shown below. To do this,     `Right Click on Picture>Image Options>Text Wrapping>Wrap Text` Keep in mind that the size of the photo has been significantly reduced as well.
+-   Alternatively, if the picture only consists of the speaker, then it should be moved towards the edge of a paragraph as shown below. To do this,     **Right Click on Picture > Image Options > Text Wrapping > Wrap Text** Keep in mind that the size of the photo has been significantly reduced as well.
 
     ![single](pics/person.png)
 
