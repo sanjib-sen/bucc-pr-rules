@@ -1,28 +1,30 @@
-# Editing/Writing Guidelines For BUCC PR
+# Guidelines For BUCC PR
 
-> Preparing a written material for publication by correcting, condensing, or otherwise modifying it is called Editing.
->
-> -Wikipedia
-
-There are some basic Rules for PR Writing/Editing.
-Please check those out.
+> Welcome to the **PRESS RELEASE and PUBLICATIONS** Department of **BRAC University Computer Club**. There are some basic Rules for PR Writing/Editing.
+Please check those out before writing a PR.
 
 ## Basic Rules
+![Intoduction](pics/introduction.png)
 
 1. **Platform:** We will use [Google Docs](https://docs.google.com/)
 
 2. **Font:** The font type for the main text should always be **Open Sans** and the font size is `12 pt.` for main text and `18 pt.` for headline.
 
-    | Font     |   Heading   |  Main Text  |
-    | -------- | :---------: | :---------: |
-    | **Type** | `Open-Sans` | `Open-Sans` |
-    | **Size** |  `18 pt`.   |  `12 pt.`   |
+3. **Alignment:** The alignment should be `Center align` for Headline and `Justify` for main text.
 
-3. **Format of Headline:** The headline should be brief and to the point. It should be **bolded** and **underlined** as well.
+    ![align](pics/align.png)
 
-4. **Length:** The text of the PR should not exceed 1.5 pages and the total PR (including the picture) should not exceed `2` pages.
+4. **Line Spacing:** The line spacing should be `1.15` both for the headline and the main text.
 
-5. **Paragraph size and subject** Each paragraph should not be more than 5-6 lines at most and each Paragraph should focus on only a single topic as to ensure that the readers are able to easily read and understand the information.
+5. **Format of Headline:** The headline should be brief and to the point. It should be **bolded** and **underlined** as well. There will be a One line gap between the Headline and the starting of the main text.
+   
+   ![headline](pics/headline.png)
+
+6. **Format of Main Text:** Unless [specified reasons](##Bolding), the paragraph will not be bolded and underlined.
+   
+   ![paragraph](pics/paragraph.png)
+
+7. **Paragraph size and subject:** Each paragraph should not be more than 5-6 lines at most and each Paragraph should focus on only a single topic as to ensure that the readers are able to easily read and understand the information.
 
     **Wrong**
 
@@ -32,7 +34,18 @@ Please check those out.
 
     ![Right](pics/longright.jpg)
 
-## General writing style
+8. **Length:** The text of the PR should not exceed `1.5` pages and the total PR (including the picture) should not exceed `2` pages.
+
+# Summary Table
+
+|                |   Heading     |  Main Text  |
+| -------------  | :---------:   | :---------: |
+| **Font Type**  |  Open Sans    |  Open Sans  |
+| **Font Size**  |   18 pt.      |   12 pt.    |
+| **Alignment**  |  Center-align |   Justify   |
+|**Line Spacing**|     1.15      |    1.15     |
+
+## General Writing Style
 
 -   The writer should always prevent him/herself from using unnecessarily complex words or sentences. The array of words used should maintain a fine balance between readability and professionalism. They should not be too difficult as to force the reader to open up a dictionary or too simple as to seem childish and immature.
 
@@ -48,7 +61,7 @@ Please check those out.
 
     > The core objective of the workshop was to introduce the concepts of social entrepreneurship, tech leadership and the techniques of excelling in various sectors of ICT to the students and participants of the event.
 
-## Bolding Rules
+## Bolding
 
 BRAC University Computer Club, time, date, venue, event name, name of important speakers should be bolded only when encountered for the first time.
 
@@ -74,7 +87,7 @@ Alternatively, if there are not group photos, then a good picture of one of the 
 
 ![distractionRight](pics/distractionright.jpg)
 
-## Placement of Photos in the PR
+## Placement of Photos
 
 Regardless of the type of the picture, the placement should always be at the beginning of the PR. However, the placement will vary slightly based on whether it is a group photo or a photo of the speaker.
 
@@ -82,7 +95,7 @@ Regardless of the type of the picture, the placement should always be at the beg
 
     ![group](pics/group.jpg)
 
--   Alternatively, if the picture only consists of the speaker, then it should be moved towards the edge of a paragraph as shown below. Keep in mind that the size of the photo has been significantly reduced as well.
+-   Alternatively, if the picture only consists of the speaker, then it should be moved towards the edge of a paragraph as shown below. To do this,     `Right Click on Picture>Image Options>Text Wrapping>Wrap Text` Keep in mind that the size of the photo has been significantly reduced as well.
 
     ![single](pics/person.png)
 
@@ -107,7 +120,7 @@ A paragraph thanking the volunteers of the event should always be kept at the en
 
     ![crop2](pics/crop2.jpg)
 
-# PR Writing System
+# The Process
 
 Since we are consistently trying to ensure that everything inside the PR department is being carried out in a systematic and efficient way, the following course of action is to be followed by anyone who might be supervising the PR of any given event.
 
@@ -116,6 +129,17 @@ Since we are consistently trying to ensure that everything inside the PR departm
 -   The moment the Google Doc has been opened, [**Jannatul Ferdous Mim**](https://www.facebook.com/jannatul.fedrousmim/) (`jannatulferdousmim@gmail.com`), [**Anindo Masiat**](https://www.facebook.com/Masiat.Anindo/) (`shababmasiat@gmail.com`) and [**Abrar Ur Rahman**](https://www.facebook.com/aur.ishmam/) (`ishmam000@gmail.com`) are to be invited immediately as they will constantly be monitoring the progress of the Senior Executive in charge as well as the writers.
 -   Once the PR is complete, a preliminary editing is to be done by the writers themselves under the Senior Executive in charge. Afterwards, The Senior Executive in charge will do another check and pass it on to the Assistant Directors/Directors.
 
-# Templates
+# Samples
 
-[Drive Link](https://drive.google.com/drive/folders/1cRqxOGCmwUsc2HCryFbRdv9203QWCT9U?usp=sharing)
+> All samples can be found [here](https://drive.google.com/drive/folders/1yg8dabFQMztoj4hoc0FiXYoxbgRdSoM4?usp=sharing).
+
+- #### Offline Events
+  - [Workshop on Web Design by Creative IT](https://docs.google.com/document/d/1BFtPNaL7xMJf4y4BMqmsBPo8QMnc-9xfxux9xxTOttM/edit?usp=sharing)
+  - [Women Rock IT: Rise of Women Technopreneurs](https://docs.google.com/document/d/1HVaitClsFUOZVh37hYy-d2ZjbrPGCC-t-afnWsZR6No/edit?usp=sharing)
+
+- #### Online Events
+  - [Workshop on Analytical Skills](https://docs.google.com/document/d/1oBav59C6uvMxGoxNXw8oQNRFhXf7slsU9IarnpQmM3U/edit?usp=sharing)
+  - [Roadmap towards Thesis](https://docs.google.com/document/d/1tHEaEOJS_auijGVu0iMDLwGafSAa5SKspxAiLKyHRXM/edit?usp=sharing)
+  
+- #### Competitions / Large Event
+  - [BUCC WEEK: R@dix 2.0](https://docs.google.com/document/d/102ZzkyZRENPQrtCTxkMxqEiwBsqrMjPA8WC31ON5J_U/edit?usp=sharing)
