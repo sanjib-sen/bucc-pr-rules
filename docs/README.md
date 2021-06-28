@@ -36,7 +36,7 @@ Please check those out before writing a PR.
 
 8. **Length:** The text of the PR should not exceed `1.5` pages and the total PR (including the picture) should not exceed `2` pages.
 
-# Summary Table
+## Summary Table
 
 |                |   Heading     |  Main Text  |
 | -------------  | :---------:   | :---------: |
@@ -133,13 +133,18 @@ Since we are consistently trying to ensure that everything inside the PR departm
 
 > All samples can be found [here](https://drive.google.com/drive/folders/1yg8dabFQMztoj4hoc0FiXYoxbgRdSoM4?usp=sharing).
 
-- #### Offline Events
+- ## Offline Events
   - [Workshop on Web Design by Creative IT](https://docs.google.com/document/d/1BFtPNaL7xMJf4y4BMqmsBPo8QMnc-9xfxux9xxTOttM/edit?usp=sharing)
   - [Women Rock IT: Rise of Women Technopreneurs](https://docs.google.com/document/d/1HVaitClsFUOZVh37hYy-d2ZjbrPGCC-t-afnWsZR6No/edit?usp=sharing)
 
-- #### Online Events
+- ## Online Events
   - [Workshop on Analytical Skills](https://docs.google.com/document/d/1oBav59C6uvMxGoxNXw8oQNRFhXf7slsU9IarnpQmM3U/edit?usp=sharing)
   - [Roadmap towards Thesis](https://docs.google.com/document/d/1tHEaEOJS_auijGVu0iMDLwGafSAa5SKspxAiLKyHRXM/edit?usp=sharing)
   
-- #### Competitions / Large Event
+- ## Competitions / Large Event
   - [BUCC WEEK: R@dix 2.0](https://docs.google.com/document/d/102ZzkyZRENPQrtCTxkMxqEiwBsqrMjPA8WC31ON5J_U/edit?usp=sharing)
+
+# Credits
+> This website is created and being maintained by [Sanjib Kumar Sen](https://www.facebook.com/sanjib.kumarsen.963/), Senior Executive, Department of PR, BUCC.
+> 
+> The old and original `PR Rules` can be found [here](https://docs.google.com/document/d/1OMx4za9tSh4ucBmqUp8FRb5ZM88UY8SGS2yB23cAWLA/edit?usp=sharing).

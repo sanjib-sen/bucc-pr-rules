@@ -7,7 +7,7 @@
 -   Writing Rules
 -   PR Process
 -   Examples
--   Templates
+-   Samples
 
-[Guidelines](#editingwriting-guidelines-for-bucc-pr)
-[Templates](https://drive.google.com/drive/folders/1cRqxOGCmwUsc2HCryFbRdv9203QWCT9U?usp=sharing)
+[Guidelines](#guidelines-for-bucc-pr)
+[Samples](#samples)
