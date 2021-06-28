@@ -20,7 +20,7 @@ Please check those out before writing a PR.
    
    ![headline](pics/headline.png)
 
-6. **Format of Main Text:** Unless [Specified Reasons](https://sanjib-sen.github.io/bucc-pr-rules/#/?id=bolding), neither the paragraph will be bolded nor underlined.
+6. **Format of Main Text:** Unless [Specified Reasons](#bolding), neither the paragraph will be bolded nor underlined.
    
    ![paragraph](pics/paragraph.png)
 
