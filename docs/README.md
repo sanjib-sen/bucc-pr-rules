@@ -127,7 +127,7 @@ Since we are consistently trying to ensure that everything inside the PR departm
 
 - The senior executive in charge of the PR will create a Google Doc and provide it to the writers.
 - If only 1 PR member attended the event, then the whole PR will be written by Him/Her. Alternatively, if 2+ members attended the event, then it is the responsibility of the senior executive to ensure that the written PR is a collaborative effort. Meaning, the writers themselves should divide the parts of the PR amongst themselves and write accordingly.
-- The moment the Google Doc has been opened, [**Jannatul Ferdous Mim**](https://www.facebook.com/jannatul.fedrousmim/) (`jannatulferdousmim@gmail.com`), [**Anindo Masiat**](https://www.facebook.com/Masiat.Anindo/) (`shababmasiat@gmail.com`) and [**Abrar Ur Rahman**](https://www.facebook.com/aur.ishmam/) (`ishmam000@gmail.com`) are to be invited immediately as they will constantly be monitoring the progress of the Senior Executive in charge as well as the writers.
+- The moment the Google Doc has been opened, [**Meshaq Monsur**](https://www.facebook.com/meshaq.monsur.1) (`meshaq145@gmail.com`), [**Sanjib Kumar Sen**](https://www.facebook.com/sanjib.kumarsen.963/) (`sksenonline@gmail.com`) and [**Tonusree Talukder**](https://www.facebook.com/trina.talukder.52) (`tonusreetalukder@gmail.com`) are to be invited immediately as they will constantly be monitoring the progress of the Senior Executive in charge as well as the writers.
 - Once the PR is complete, a preliminary editing is to be done by the writers themselves under the Senior Executive in charge. Afterwards, The Senior Executive in charge will do another check and pass it on to the Assistant Directors/Directors.
 
 # Samples
@@ -150,6 +150,6 @@ Since we are consistently trying to ensure that everything inside the PR departm
 
 # Credits
 
-> This website is created and being maintained by [Sanjib Kumar Sen](https://www.facebook.com/sanjib.kumarsen.963/), Senior Executive, Department of PR, BUCC.
+> This website is created and being maintained by [Sanjib Kumar Sen](https://www.facebook.com/sanjib.kumarsen.963/), Director, Department of PR, BUCC.
 >
 > The old and original `PR Rules` can be found [here](https://docs.google.com/document/d/1OMx4za9tSh4ucBmqUp8FRb5ZM88UY8SGS2yB23cAWLA/edit?usp=sharing).
