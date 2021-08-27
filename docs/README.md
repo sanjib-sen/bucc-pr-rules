@@ -127,7 +127,7 @@ Since we are consistently trying to ensure that everything inside the PR departm
 
 - The senior executive in charge of the PR will create a Google Doc and provide it to the writers.
 - If only 1 PR member attended the event, then the whole PR will be written by Him/Her. Alternatively, if 2+ members attended the event, then it is the responsibility of the senior executive to ensure that the written PR is a collaborative effort. Meaning, the writers themselves should divide the parts of the PR amongst themselves and write accordingly.
-- The moment the Google Doc has been opened, [**Meshaq Monsur**](https://www.facebook.com/meshaq.monsur.1) (`meshaq145@gmail.com`), [**Sanjib Kumar Sen**](https://www.facebook.com/sanjib.kumarsen.963/) (`sksenonline@gmail.com`) and [**Tonusree Talukder**](https://www.facebook.com/trina.talukder.52) (`tonusreetalukder@gmail.com`) are to be invited immediately as they will constantly be monitoring the progress of the Senior Executive in charge as well as the writers.
+- The moment the Google Doc has been opened, [**Meshaq Monsur**](https://www.facebook.com/meshaq.monsur.1) (`meshaq.monsur@g.bracu.ac.bd`), [**Sanjib Kumar Sen**](https://www.facebook.com/sanjib.kumarsen.963/) (`sanjib.kumar.sen@g.bracu.ac.bd`) and [**Tonusree Talukder**](https://www.facebook.com/trina.talukder.52) (`tonusree.talukder.trina@g.bracu.ac.bd`) are to be invited immediately as they will constantly be monitoring the progress of the Senior Executive in charge as well as the writers.
 - Once the PR is complete, a preliminary editing is to be done by the writers themselves under the Senior Executive in charge. Afterwards, The Senior Executive in charge will do another check and pass it on to the Assistant Directors/Directors.
 
 # Samples
